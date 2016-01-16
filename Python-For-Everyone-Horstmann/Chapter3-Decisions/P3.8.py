@@ -15,6 +15,9 @@ if number1 == number4 and number2 == number3:
 elif number1 == number2 and number3 == number4:
     print("Two pairs")
 
+elif number2 == number4 and number1 == number3 :
+    print("Two pairs")
+
 elif number1 == number2 and number1 == number3 and number1 == number4:
     print("Two pairs")
 
